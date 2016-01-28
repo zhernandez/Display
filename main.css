@@ -8,7 +8,8 @@ div{
 	height: 70%;
 	width: 20%;
 	font-size: 140%;
-	margin: 1%
+	margin: 1%;
+	display: inline-block;
 }
 .pdl5{
 	padding-left: 2%;
