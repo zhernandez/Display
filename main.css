@@ -5,11 +5,12 @@
 	background-color: #cc0033;
 } 
 div{
-	height: 70%;
-	width: 20%;
-	font-size: 140%;
+	height: 60%;
+	width: 50%;
+	font-size: 200%;
 	margin: 1%;
-	display: inline-block;
+	margin-top: 10%;
+	display: inline;
 }
 .pdl5{
 	padding-left: 2%;
@@ -19,4 +20,7 @@ div{
 }
 .may {
 	text-transform: uppercase;
+}
+p{
+	display:inline;
 }
